@@ -95,7 +95,9 @@ O desempenho e a compatibilidade podem variar conforme o dispositivo, a GPU, os 
 
 ## Screenshots
 
-Ainda não há uma captura pública aprovada nesta árvore. As imagens Android encontradas localmente foram rejeitadas porque uma estava sem imagem do jogo e outra incluía dados pessoais da tela de multitarefa. Uma nova captura limpa será adicionada quando um dispositivo Android com o Project Tandem estiver disponível.
+Captura real do Project Tandem Android em um dispositivo físico, com o título do jogo e os controles touchscreen visíveis:
+
+![Project Tandem Android — tela de título](docs/screenshots/android-title-screen-k217.png)
 
 ## 🛠️ Tecnologias utilizadas
 
