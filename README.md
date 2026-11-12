@@ -93,6 +93,10 @@ Entre os recursos de integração estão:
 
 O desempenho e a compatibilidade podem variar conforme o dispositivo, a GPU, os drivers e a versão do Android.
 
+## Screenshots
+
+Ainda não há uma captura pública aprovada nesta árvore. As imagens Android encontradas localmente foram rejeitadas porque uma estava sem imagem do jogo e outra incluía dados pessoais da tela de multitarefa. Uma nova captura limpa será adicionada quando um dispositivo Android com o Project Tandem estiver disponível.
+
 ## 🛠️ Tecnologias utilizadas
 
 - C e C++
